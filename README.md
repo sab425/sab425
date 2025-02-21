@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✎ Currently a full-time student
-- ✿ Just a beginner learning and majoring in Computer Science, go class of 27'!
+- ✿ Majoring in Computer Science with a huge passion for Cybersecurity, go class of 27'!
 - ♡ Pronouns: she/her  
 - ⚡ Fun fact: » Born and raised in Massachusetts 
-              » Looking forward on making some small passion projects to further increase my coding knowledge!
+              » Looking forward to making some small passion projects to further increase my coding knowledge!
